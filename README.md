@@ -11,7 +11,7 @@ Questions? Comments?
 
 # Python Classes and Data Structures: Practice Problems + Reading
 
-In this homework, you're going to write code for two challenge problems.
+In this lab, you're going to write code for two challenge problems.
 
 You'll practice these programming concepts we've covered in class:
 
@@ -22,7 +22,7 @@ You'll practice these programming concepts we've covered in class:
 
 ## Deliverables
 
-Part of this homework will be code challenges and part of it will be some reading with comprehension questions.
+Part of this lab will be code challenges and part of it will be some reading with comprehension questions.
 
 For each of the code challenges listed below, you will create a new `.py` file and write code to solve the problem. For example, you would create `problem1.py` with your solution code to the first problem. Run the file from the command line to check your work.
 
